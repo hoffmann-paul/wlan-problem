@@ -30,3 +30,7 @@ The **abbreviation** "UCR" stands for "**U**tility **C**onnection **R**oom". Tha
 ## Day 1
 - Created a Sketch for the MESH NETWORK
 - Trying to find out which Device serves *Top Floor*
+- Found MAC-ADRESS for WLANs:
+  - Ground Floor: 34:31:C4:CF:B2:F5
+  - Middle Floor: 34:81:C4:AD:98:06
+  - Top Floor: C4:04:15:03:25:DA
