@@ -57,3 +57,5 @@ The **abbreviation** "UCR" stands for "**U**tility **C**onnection **R**oom". Tha
  
 ### Solution Attempt
 My train of thought was that my dad probably tried building a MESH Network Using the Fritz!Box, The Repeater 450E, and the WNR1000v3 but couldn't get it work because the WNR1000v3 don't support AVM Mesh and so we ended up with three different WLANs. Because we already have a compatible Device (FRITZ!DECT Rep 100 #1) but it don't serve any WLANs Connection, My Plan is to just create a new MESH Network but replace the WNR1000v3 with the FRITZ!DECT Rep 100 #1.
+
+After some research i found out that Fritz DECT Repeater only support expansion for DECT-phone and Smart-Home. So unfortunately we have to buy a FRITZ!WLAN Repeater. Something like the 450E. Than i can Setup the correct MESH.
