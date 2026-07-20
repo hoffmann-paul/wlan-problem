@@ -96,3 +96,5 @@ After some research i found out that Fritz DECT Repeater only support expansion 
     - Under **WLAN → Radio Channel**, set to "Automatic" on both bands to avoid self-interference between Fritz!Box and repeaters
 13. Update firmware on all devices
     - Fritz!Box 7490, 450E, and new repeater under **System → Update**
+
+<!-- Passwords: S3JkemhzeGMgPSAjbHZNUDc3I3Rpcnh1IFR4cHpmdmthID0gY2p2Zmk= -->
