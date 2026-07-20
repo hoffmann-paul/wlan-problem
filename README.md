@@ -26,3 +26,7 @@ The **abbreviation** "UCR" stands for "**U**tility **C**onnection **R**oom". Tha
 | [FRITZ!WLAN Repeater 450E](https://fritz.com/apps/knowledge-base/fritz-wlan-repeater-450e-int/) | The repeater that serves the *Middle Floor* | In a Middle Floor bedroom |
 | WNR1000v3 | A router from "Netgear". I don't know what it serves or if we even use it. | Location is unknown |
 | FRITZ!DECT Rep 100 #1 | A repeater from AVM, that also supports DECT. It probably serves the *Top Floor*, but I don't know for sure. | In the hallway on the Top Floor |
+
+## Day 1
+- Created a Sketch for the MESH NETWORK
+- Trying to find out which Device serves *Top Floor*
