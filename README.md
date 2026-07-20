@@ -1,4 +1,4 @@
-# Where it all started...
+# WLAN Problem
 ## Problem
 So at my home we have 3 WLANs. My father created these because the router is on the ground floor and the signal can't reach the top floor. So he set up a repeater on every floor and so we have 3 WLANs named:
 1. ... Ground Floor
