@@ -34,3 +34,6 @@ The **abbreviation** "UCR" stands for "**U**tility **C**onnection **R**oom". Tha
   - Ground Floor: 34:31:C4:CF:B2:F5
   - Middle Floor: 34:81:C4:AD:98:06
   - Top Floor: C4:04:15:03:25:DA
+- Found MAC-ADRESS for WNR1000v3:
+  - C4:04:15:03:25:DB
+  - It is the same that is from the Top Floor only the Last Letter changes from "A" to "B". I think the WNR1000v3 is the Router that serves the Top Floor.
