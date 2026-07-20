@@ -50,5 +50,10 @@ The **abbreviation** "UCR" stands for "**U**tility **C**onnection **R**oom". Tha
 | ----- | ----- | ----- |
 | Ground | 34:31:C4:CF:B2:F5 | Fritz!Box 7490 |
 | Middle | 34:81:C4:AD:98:06 | FRITZ!WLAN Repeater 450E |
-| Top | C4:04:15:03:25:DA | WNR1000v3 |
+| Top | C4:04:15:03:25:DA | WNR1000v3 |  
     
+- Next Try is to connect to WNR1000v3 via Ipv4 -> When in Ground- or Middlefloor, im stuck in a white Screen. When in Topfloor, it throws a `ERR_CONNECTION_REFUSED`.
+  - I looked in `#netDev` it confirms that im connect over WNR1000v3. So i think the device blocks direct Web Access in Repeater-/Bridge-mode.
+ 
+### Solution Attempt
+My train of thought was that my dad probably tried building a MESH Network Using the Fritz!Box, The Repeater 450E, and the WNR1000v3 but couldn't get it work because the WNR1000v3 don't support AVM Mesh and so we ended up with three different WLANs. Because we already have a compatible Device (FRITZ!DECT Rep 100 #1) but it don't serve any WLANs Connection, My Plan is to just create a new MESH Network but replace the WNR1000v3 with the FRITZ!DECT Rep 100 #1.
