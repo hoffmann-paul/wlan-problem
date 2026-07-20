@@ -37,3 +37,18 @@ The **abbreviation** "UCR" stands for "**U**tility **C**onnection **R**oom". Tha
 - Found MAC-ADRESS for WNR1000v3:
   - C4:04:15:03:25:DB
   - It is the same that is from the Top Floor only the Last Letter changes from "A" to "B". I think the WNR1000v3 is the Router that serves the Top Floor.
+ 
+### Table for all Device Details  
+| Device | Ipv4 | MAC-ADRESS | Served Floor |
+| ----- | ----- | ----- | ----- |
+| Fritz!Box 7490 | 192.168.178.1 | 34:31:C4:CF:B2:F5 | Ground |
+| FRITZ!WLAN Repeater 450E | 192.168.178.24 | 34:81:C4:AD:98:06 | Middle |
+| WNR1000v3 | 192.168.178.21 | C4:04:15:03:25:DB | Top |
+
+### Tabel for all WLAN Details  
+| WLAN | MAC-ADRESS | Served from |
+| ----- | ----- | ----- |
+| Ground | 34:31:C4:CF:B2:F5 | Fritz!Box 7490 |
+| Middle | 34:81:C4:AD:98:06 | FRITZ!WLAN Repeater 450E |
+| Top | C4:04:15:03:25:DA | WNR1000v3 |
+    
