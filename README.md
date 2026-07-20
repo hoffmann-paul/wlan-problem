@@ -27,7 +27,7 @@ The **abbreviation** "UCR" stands for "**U**tility **C**onnection **R**oom". Tha
 | WNR1000v3 | A router from "Netgear". I don't know what it serves or if we even use it. | Location is unknown |
 | FRITZ!DECT Rep 100 #1 | A repeater from AVM, that also supports DECT. It probably serves the *Top Floor*, but I don't know for sure. | In the hallway on the Top Floor |
 
-## Day 1
+## Progress
 - Created a Sketch for the MESH NETWORK
 - Trying to find out which Device serves *Top Floor*
 - Found MAC-ADRESS for WLANs:
